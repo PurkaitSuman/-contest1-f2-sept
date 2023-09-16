@@ -1,4 +1,4 @@
-# -contest1-f2-sept
+# Contest1-f2-sept
 Instructions:
 Do Not Modify index.html: All the required elements, including buttons, have already been set up for you. Each button is tied to a function in script.js, which you'll have to fill out.
 
